@@ -8,4 +8,4 @@ https://www.youtube.com/watch?v=pwcG6npiXyo
 
 # Demo App
 
-![](https://media.giphy.com/media/KzQsYMyLWF42zEYd1p/giphy.gif)
+![](https://media.giphy.com/media/d8WoR34Nwm1OAy6AQz/giphy.gif)
